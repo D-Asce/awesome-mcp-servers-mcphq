@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-181-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-183-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -46,12 +46,12 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Filesystems and Documents](#filesystems-and-documents) (8)
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (13)
 - [Communication and Productivity](#communication-and-productivity) (17)
-- [AI, Agents, and Memory](#ai-agents-and-memory) (25)
+- [AI, Agents, and Memory](#ai-agents-and-memory) (26)
 - [Data, Analytics, and BI](#data-analytics-and-bi) (15)
 - [Legal and Court Data](#legal-and-court-data) (4)
 - [Security and Identity](#security-and-identity) (9)
 - [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (21)
-- [Utilities and Examples](#utilities-and-examples) (11)
+- [Utilities and Examples](#utilities-and-examples) (12)
 
 <a id="official-and-reference"></a>
 
@@ -302,6 +302,8 @@ LLM bridges, agent orchestration, RAG, and persistent memory layers.
 
 - **[AccInt](https://github.com/maxbaluev/accreted-intelligence)** `Rust` — Local-first MCP Work Model that gives coding agents scored memory retrieval, commitments, and outcome-based credit.  
   `memory` `coding-agents` `local-first`
+- **[AcqPath](https://github.com/reflectme-source/acqpath-distribution)** `Official` `JavaScript` — Observes machine-readable source-rights declarations for RAG, AI input, indexing, training, and search, returning signed timestamped evidence.  
+  `rights` `compliance` `rag` `provenance` `remote`
 - **[Agentage Memory](https://agentage.io/blog/mcp-endpoint-is-live)** `Official` `TypeScript` — Remote MCP memory server - one markdown memory every AI reads and writes via OAuth 2.1 Streamable HTTP at https://memory.agentage.io/mcp.  
   `memory` `remote` `oauth`
 - **[Aident Loadout](https://github.com/Aident-AI/aident-skill)** `Official` `TypeScript` — Remote MCP capability layer that connects coding agents to 1000+ apps and 400+ Skills through one OAuth setup, with vaulted credentials and an audit trail.  
@@ -503,6 +505,8 @@ Helpful utilities, templates, and starter servers for learning MCP.
   `registry` `enterprise` `self-hosted`
 - **[MetaMCP](https://github.com/metatool-ai/metatool-app)** `TypeScript` — Middleware MCP server that aggregates and manages multiple connections.  
   `aggregator` `gateway` `middleware`
+- **[TableJourney](https://github.com/lewismvaughan/tablejourney-mcp)** `Official` `Python` — Where to eat in 222 cities, signature dishes, and dates of the next edition of 1,480 food festivals, each place with the source it was checked against; hosted, no auth.  
+  `travel` `food` `restaurants` `festivals` `remote`
 - **[Weather MCP Server](https://github.com/isdaniel/mcp_weather_server)** `Python` — Fetch current weather and forecasts from public weather APIs.  
   `weather` `api` `utility`
 

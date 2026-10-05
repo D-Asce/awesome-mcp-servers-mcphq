@@ -2755,5 +2755,24 @@
     "endpoints": {
       "streamableHttp": "https://tablejourney.com/mcp"
     }
+  },
+  {
+    "name": "AcqPath",
+    "url": "https://github.com/reflectme-source/acqpath-distribution",
+    "description": "Observes machine-readable source-rights declarations for RAG, AI input, indexing, training, and search, returning signed timestamped evidence.",
+    "category": "ai-agents-and-memory",
+    "language": "JavaScript",
+    "provider": "AcqPath",
+    "tags": [
+      "rights",
+      "compliance",
+      "rag",
+      "provenance",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://api.getacqpath.com/mcp"
+    }
   }
 ]
