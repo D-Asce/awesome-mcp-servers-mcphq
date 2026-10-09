@@ -1671,6 +1671,21 @@
     }
   },
   {
+    "name": "PandaStock",
+    "url": "https://github.com/D-Asce/pandastocksdk",
+    "description": "A-share real-time market data MCP server with NATS-pushed quotes, Level2, DDX big orders, money flow and AI stock screening; 176 server-side endpoints, 22 open endpoints, free public test account.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "Python",
+    "provider": "pandaData",
+    "tags": [
+      "a-share",
+      "stock-data",
+      "real-time-quotes",
+      "market-data"
+    ],
+    "official": false
+  },
+  {
     "name": "Metabase MCP Server",
     "url": "https://www.metabase.com/docs/latest/ai/mcp",
     "description": "Query dashboards and explore data in Metabase BI.",
